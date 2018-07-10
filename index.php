@@ -10,7 +10,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>CodeBuzz</title>
+    <title>Code Clash. Coding Arena</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
@@ -58,8 +58,8 @@
                                 <span><i class="fa fa-fax"></i> +00 425 356 4518</span>
                             </li>
                             <li>
-                                <span><i class="fa fa-envelope"></i> info@youremail.com</span>
-                                <span><i class="fa fa-paper-plane-o"></i> www.yourwebsite.com</span>
+                                <span><i class="fa fa-envelope"></i> info@codeclash.com</span>
+                                <span><i class="fa fa-paper-plane-o"></i> www.codeclash.com</span>
                             </li>
                         </ul>
                     </div>
